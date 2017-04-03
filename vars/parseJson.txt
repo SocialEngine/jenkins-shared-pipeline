@@ -1,0 +1,3 @@
+<strong>parseJson(string jsonText)</strong>
+
+<p>parses json and returns a navigable object</p>
